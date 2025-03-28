@@ -53,7 +53,7 @@ Se probó con 8 neuronas en la capa oculta, aunque no hubo un aumento significat
 
 La exactitud final tras entrenar durante 50 épocas fue del 87%.
 
-![Evolución de la exactitud del modelo.](irir-confusion_matris.png)
+![Evolución de la exactitud del modelo.](irir-confusion_matrix.png)
 
 *Figura 2: Evolución de la exactitud del modelo.*
 
@@ -63,7 +63,7 @@ En la separación de las tres especies en el análisis PCA, se observa una clara
 
 El modelo logró un buen desempeño, identificando perfectamente la clase *virginica* en el conjunto de prueba y con pocos errores en *setosa* y *versicolor*.
 
-![Análisis PCA de la separación de especies.](iris-main_component_analice.png)
+![Análisis PCA de la separación de especies.](iris-main_component.png)
 
 *Figura 3: Análisis PCA de la separación de especies.*
 
